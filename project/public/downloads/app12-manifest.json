@@ -1,0 +1,22 @@
+{
+  "name": "تطبيق 12 - الشبكة الاجتماعية العربية",
+  "short_name": "12",
+  "description": "تطبيق 12 - الشبكة الاجتماعية العربية الأولى للهواتف الذكية بنظام أندرويد",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050505",
+  "theme_color": "#E11D48",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "version": "2.4.0"
+}
